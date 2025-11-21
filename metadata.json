@@ -1,0 +1,7 @@
+{
+  "name": "Strictly English",
+  "description": "A strict but supportive English tutor AI focusing on Speaking, Listening, and Grammar with Turkish explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
